@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.88711eac.css",
-    "main.js": "/static/js/main.27bfffae.js",
+    "main.css": "/static/css/main.45510eef.css",
+    "main.js": "/static/js/main.a26336d6.js",
     "static/media/Untitled-1 1.png": "/static/media/Untitled-1 1.28bdc24a8a8d20a7265c.png",
     "static/media/NordiqueProBold.otf": "/static/media/NordiqueProBold.3c6c0f5916f7fa75af1c.otf",
     "static/media/NordiquePro-Regular.otf": "/static/media/NordiquePro-Regular.40848778c4cdffe54a27.otf",
@@ -12,11 +12,11 @@
     "static/media/google-icon.svg": "/static/media/google-icon.1fca074ff7d190f0f3ed31d9d1e78d2e.svg",
     "index.html": "/index.html",
     "static/media/facebook-icon.svg": "/static/media/facebook-icon.2861b54303d72e4b88bcd71701b9ebda.svg",
-    "main.88711eac.css.map": "/static/css/main.88711eac.css.map",
-    "main.27bfffae.js.map": "/static/js/main.27bfffae.js.map"
+    "main.45510eef.css.map": "/static/css/main.45510eef.css.map",
+    "main.a26336d6.js.map": "/static/js/main.a26336d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.88711eac.css",
-    "static/js/main.27bfffae.js"
+    "static/css/main.45510eef.css",
+    "static/js/main.a26336d6.js"
   ]
 }
