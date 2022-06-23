@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d83dfcd.css",
+    "main.css": "/static/css/main.857b6edf.css",
     "main.js": "/static/js/main.7b6c570a.js",
     "static/media/Untitled-1 1.png": "/static/media/Untitled-1 1.28bdc24a8a8d20a7265c.png",
     "static/media/NordiqueProBold.otf": "/static/media/NordiqueProBold.3c6c0f5916f7fa75af1c.otf",
@@ -12,11 +12,11 @@
     "static/media/google-icon.svg": "/static/media/google-icon.1fca074ff7d190f0f3ed31d9d1e78d2e.svg",
     "index.html": "/index.html",
     "static/media/facebook-icon.svg": "/static/media/facebook-icon.2861b54303d72e4b88bcd71701b9ebda.svg",
-    "main.5d83dfcd.css.map": "/static/css/main.5d83dfcd.css.map",
+    "main.857b6edf.css.map": "/static/css/main.857b6edf.css.map",
     "main.7b6c570a.js.map": "/static/js/main.7b6c570a.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d83dfcd.css",
+    "static/css/main.857b6edf.css",
     "static/js/main.7b6c570a.js"
   ]
 }
