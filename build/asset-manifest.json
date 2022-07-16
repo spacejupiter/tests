@@ -1,20 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.0400e87b.css",
-    "main.js": "/static/js/main.9f6132f2.js",
+    "main.css": "/static/css/main.69719f89.css",
+    "main.js": "/static/js/main.dabca97c.js",
     "static/media/playstation.jpg": "/static/media/playstation.c95edd3f8fdc02a2d032.jpg",
     "static/media/NordiqueProBold.otf": "/static/media/NordiqueProBold.3c6c0f5916f7fa75af1c.otf",
-    "static/media/NordiquePro-Regular.otf": "/static/media/NordiquePro-Regular.40848778c4cdffe54a27.otf",
-    "static/media/NordiquePro-Semibold.otf": "/static/media/NordiquePro-Semibold.a41bb86d3a02487f4b3e.otf",
-    "static/media/NordiquePro-Inline.otf": "/static/media/NordiquePro-Inline.ab361f85d1b1581c99d0.otf",
-    "static/media/NordiquePro-Light.otf": "/static/media/NordiquePro-Light.905f26e0d936220adcc7.otf",
+    "static/media/byBarterr.svg": "/static/media/byBarterr.d52e45d0e19646c3e14b5d214f96d27d.svg",
     "static/media/comments.svg": "/static/media/comments.be1e7733b1be2918fb27a4d4c39ac56d.svg",
     "static/media/logo.svg": "/static/media/logo.7bb814913ef4dc9f4aa52d5a5ec93cf4.svg",
+    "index.html": "/index.html",
     "static/media/views.svg": "/static/media/views.494bd62e6ded197e19feae1b9c03091d.svg",
     "static/media/likes.svg": "/static/media/likes.4221a5d1b334bbd4a0acea6a89197f59.svg",
     "static/media/swap.svg": "/static/media/swap.6383726313983d239a1136fd94c87b54.svg",
     "static/media/eva_search-fill.svg": "/static/media/eva_search-fill.5bac775eea06f18502b91f92adceec2f.svg",
-    "index.html": "/index.html",
     "static/media/apple-icon.svg": "/static/media/apple-icon.e5df4516c772cabaa3c6bd82d537e861.svg",
     "static/media/wishlist.svg": "/static/media/wishlist.4e8c93b24cfef4978cfe28f18fc36929.svg",
     "static/media/playstore.svg": "/static/media/playstore.78211fff3167ac0fff238c090848d767.svg",
@@ -23,11 +20,11 @@
     "static/media/profile.svg": "/static/media/profile.7f95ee811359051dacecf11b994e706c.svg",
     "static/media/downarrow.svg": "/static/media/downarrow.8ea0d37519c6017c43d2c2560d8f43d2.svg",
     "static/media/downarrowblack.svg": "/static/media/downarrowblack.5d12349ad4abd04815649035945b270a.svg",
-    "main.0400e87b.css.map": "/static/css/main.0400e87b.css.map",
-    "main.9f6132f2.js.map": "/static/js/main.9f6132f2.js.map"
+    "main.69719f89.css.map": "/static/css/main.69719f89.css.map",
+    "main.dabca97c.js.map": "/static/js/main.dabca97c.js.map"
   },
   "entrypoints": [
-    "static/css/main.0400e87b.css",
-    "static/js/main.9f6132f2.js"
+    "static/css/main.69719f89.css",
+    "static/js/main.dabca97c.js"
   ]
 }
