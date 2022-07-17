@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c3b80efb.css",
-    "main.js": "/static/js/main.915c34e5.js",
+    "main.css": "/static/css/main.8c9ef2f9.css",
+    "main.js": "/static/js/main.e096c5cf.js",
     "static/media/playstation.jpg": "/static/media/playstation.c95edd3f8fdc02a2d032.jpg",
     "static/media/NordiqueProBold.otf": "/static/media/NordiqueProBold.3c6c0f5916f7fa75af1c.otf",
     "static/media/byBarterr.svg": "/static/media/byBarterr.d52e45d0e19646c3e14b5d214f96d27d.svg",
@@ -20,11 +20,11 @@
     "static/media/profile.svg": "/static/media/profile.7f95ee811359051dacecf11b994e706c.svg",
     "static/media/downarrow.svg": "/static/media/downarrow.8ea0d37519c6017c43d2c2560d8f43d2.svg",
     "static/media/downarrowblack.svg": "/static/media/downarrowblack.5d12349ad4abd04815649035945b270a.svg",
-    "main.c3b80efb.css.map": "/static/css/main.c3b80efb.css.map",
-    "main.915c34e5.js.map": "/static/js/main.915c34e5.js.map"
+    "main.8c9ef2f9.css.map": "/static/css/main.8c9ef2f9.css.map",
+    "main.e096c5cf.js.map": "/static/js/main.e096c5cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3b80efb.css",
-    "static/js/main.915c34e5.js"
+    "static/css/main.8c9ef2f9.css",
+    "static/js/main.e096c5cf.js"
   ]
 }
